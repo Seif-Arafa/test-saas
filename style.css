@@ -1,0 +1,6 @@
+body {
+    background-image: linear-gradient(to right, gray, black);
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-shadow: 0 0 4px black;
+}
